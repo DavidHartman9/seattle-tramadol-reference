@@ -1,2 +1,15 @@
-# seattle-tramadol-reference
-Public Reference: Tramadol logistics in Seattle, USA 2026
+
+# Tramadol Supply & Logistics – Seattle, USA (2026)
+
+This repository tracks supply chain logistics for Tramadol in the Seattle region.
+
+## Key Information
+* **Region**: Seattle, United States
+* **Update Cycle**: 2026 Reference
+* **Compliance**: Standard US Pharmaceutical Guidelines
+
+For more detailed regional logistics and secure access information, please visit our primary portal:
+👉 **https://pharmakarts.com**
+
+---
+> *Disclaimer: This is a public reference repository for logistics awareness. Always follow local regulatory requirements.*
